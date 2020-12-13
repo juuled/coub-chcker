@@ -121,5 +121,5 @@ public class coubcheck {
         System.out.println(art);
         System.out.println("Coub checker by ju#5905");
     }
-    // ok dokie
+    // ok
 }
